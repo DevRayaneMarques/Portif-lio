@@ -1,2 +1,3 @@
-# Portif-lio
-Portifólio criado com HTML, CSS, JAVASCRIPT
+# Portifolio
+Criação do meu primeiro Portifólio, criado com HTML, CSS, JAVASRIPT 
+
